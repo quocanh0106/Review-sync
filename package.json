@@ -9,8 +9,14 @@
   "author": "Anden",
   "license": "ISC",
   "dependencies": {
+    "@shopify/shopify-api": "^9.0.2",
     "axios": "^1.6.7",
     "cheerio": "^1.0.0-rc.12",
-    "express": "^4.18.3"
+    "exceljs": "^4.4.0",
+    "express": "^4.18.3",
+    "fs": "^0.0.1-security",
+    "graphql": "^16.8.1",
+    "graphql-request": "^6.1.0",
+    "shopify-buy": "^2.21.1"
   }
 }
